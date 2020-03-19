@@ -1,0 +1,27 @@
+{
+  "name": "simple_register_imagekit.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kamal-Singh/simple_register_imagekit.io.git"
+  },
+  "author": "Kamal-Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kamal-Singh/simple_register_imagekit.io/issues"
+  },
+  "homepage": "https://github.com/Kamal-Singh/simple_register_imagekit.io#readme"
+}
